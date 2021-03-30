@@ -1,6 +1,3 @@
-"""Quadratic Identities
-Write a menu-driven program using modules to calculate algebraic identities"""
-
 
 # Supporting Module
 # identities.py
